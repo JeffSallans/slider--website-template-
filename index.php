@@ -54,7 +54,7 @@ PURPOSE: website main page
     <script src="js/tabbedContent.js" type="text/javascript"></script>
 
     <title>
-    	The Rickel Law Firm
+    	tab title
     </title>
 </head>
 
